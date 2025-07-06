@@ -99,5 +99,11 @@ This repo demonstrates ability to:
 •	Deploy them as REST APIs
 •	Provide clear documentation for clients & developers
 ________________________________________
+Note: Accuracy can be improved by:
+•	Using Early Stopping to prevent overfitting
+•	Adding Data Augmentation (rotation, flipping, zoom)
+•	Fine-tuning the base model layers
+•	Training longer on more data
+
 
 
